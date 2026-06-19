@@ -1,0 +1,8 @@
+﻿  Lab.cpp
+C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\Lab\Lab.cpp(33,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\Lab\Lab.cpp(93,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\Lab\Lab.cpp(110,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\Lab\Lab.cpp(123,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\Lab\Lab.cpp(192,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\Lab\Lab.cpp(218,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab.vcxproj -> C:\Users\vlad2\Desktop\лаб_3_макаров_даниил_повв_з24\lab_3_src\x64\Debug\Lab.exe
